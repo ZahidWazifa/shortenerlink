@@ -1,4 +1,11 @@
 {
+    "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "URL Shortener Application",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "dotenv": "^8.2.0"
   }
